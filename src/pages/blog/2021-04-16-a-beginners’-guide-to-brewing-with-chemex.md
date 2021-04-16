@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: A beginners’ guide to brewing with Chemex
+title: Prueba de posteo
 date: 2021-04-16T18:53:30.127Z
 description: Brewing with a Chemex probably seems like a complicated,
   time-consuming ordeal, but once you get used to the process, it becomes a
